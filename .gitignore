@@ -1,0 +1,8 @@
+[Dd]ata/
+[Cc]ards/
+[Cc]rash/
+[Ee]xported/
+
+__pycache__
+token.json
+test_*.py

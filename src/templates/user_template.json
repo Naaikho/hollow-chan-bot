@@ -1,0 +1,13 @@
+{
+    "is_exchange": false,
+    "inventory": {
+        "money": 0,
+        "cards": {
+            "n1":{},
+            "n2":{},
+            "n3":{},
+            "n4":{},
+            "n5":{}
+        }
+    }
+}
